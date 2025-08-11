@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+*.dat
+!data/sample_galaxies/*.dat
+*.png
+*.jpg
+.DS_Store
+Thumbs.db
