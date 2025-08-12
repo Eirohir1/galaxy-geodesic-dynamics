@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+astropy
+# optional
+numba
+# choose one matching your driver (Windows/Linux NVIDIA):
+cupy-cuda12x; platform_system != "Darwin"
